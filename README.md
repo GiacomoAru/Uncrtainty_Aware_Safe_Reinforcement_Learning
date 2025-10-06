@@ -35,11 +35,6 @@ If the score exceeds a threshold, the Safety Filter intervenes to minimally corr
   - summary tables for each model, environment, and uncertainty threshold  
   - synthetic “score” metrics combining safety and efficiency indicators  
 
-- `results_plots/` – all visual results and analysis figures:
-  - plots used in the thesis (activation curves, Pareto frontiers, ROC-like curves, etc.)  
-  - environment visualizations and model comparisons  
-  - high-resolution images ready for LaTeX integration  
-
 ## Reproducibility
 
 The repository includes everything needed to reproduce the experimental results:
