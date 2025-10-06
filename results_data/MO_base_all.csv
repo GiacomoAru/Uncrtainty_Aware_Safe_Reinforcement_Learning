@@ -1,0 +1,3 @@
+reward_mean,length_mean,collisions_mean,success_rate,uf_activation_prop,cbf_activation_prop,true_positive_rate,false_positive_rate,true_negative_rate,false_negative_rate,forward_velocity_mean,lateral_velocity_mean,velocity_mean,goal_approach_mean,ema_divergence_mean,cbf_config,percentile
+7.517831227735616,152.49,0.835,0.561,1.0,0.0,0.0,1.0,0.0,0.0,0.6607041,0.005588662328984356,0.32978036108411657,0.49161273,0.36586878,0.0,-1
+7.357437577514909,181.038,0.447,0.579,1.0,0.28237237063252396,1.0,1.0,0.0,0.0,0.6108962,0.004657504027083633,0.3070820840665594,0.4616899,0.35820106,1.0,-1
